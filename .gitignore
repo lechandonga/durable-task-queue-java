@@ -37,3 +37,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### 本地任务队列运行产物 ###
+/data/
+/app-run*.log
+/testout.log
